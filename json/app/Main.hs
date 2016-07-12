@@ -1,5 +1,6 @@
 module Main where
 
+import           PrettyJSON
 import           PutJSON
 import           SimpleJSON
 
